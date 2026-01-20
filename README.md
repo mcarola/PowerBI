@@ -29,6 +29,8 @@ This repository showcases my business intelligence and data visualization skills
 #### Project Scope
 Transformed Excel financial data into a comprehensive, interactive Power BI report demonstrating end-to-end business intelligence capabilities from data import to cloud deployment.
 
+![PBI-1](https://github.com/user-attachments/assets/f917e7ad-b75a-45d6-b9f5-b660b3bcc02b)
+
 #### Technical Implementation
 - **Data Import**: Loaded financial data from Excel workbooks
 - **Data Transformation**: Applied Power Query transformations for data cleaning and preparation
@@ -57,7 +59,10 @@ Transformed Excel financial data into a comprehensive, interactive Power BI repo
 **Source**: Microsoft Learn Tutorial - Combining Excel and OData Feed  
 **Technologies**: Power BI Desktop, Excel, OData, Power BI Service
 
-#### Project Scope
+![PB2](https://github.com/user-attachments/assets/8805abda-3c6c-41af-ab66-ca59753777ff)
+
+#### Project Scope 
+
 Integrated multiple heterogeneous data sources (Excel files and OData feeds) to create a comprehensive sales analysis report, demonstrating advanced data connectivity and integration skills.
 
 #### Technical Implementation
@@ -87,6 +92,8 @@ Integrated multiple heterogeneous data sources (Excel files and OData feeds) to 
 ### Project 3: Data Cleaning & Transformation Lab
 **Source**: Microsoft Learn - Load Data in Power BI Desktop  
 **Technologies**: Power BI Desktop, Power Query, Power BI Service
+![PB-3](https://github.com/user-attachments/assets/ac78ca9b-661b-4b04-b6e1-c0552ca5b8d7)
+![PB-4](https://github.com/user-attachments/assets/5460b691-051d-4ae2-922f-2e90e5a1fc60)
 
 #### Project Scope
 Completed hands-on lab exercise focusing on data loading, cleaning, and transformation techniques essential for production-ready Power BI reports.
@@ -293,34 +300,7 @@ Advanced lab exercise focusing on report design principles, user experience opti
 
 ## 🤝 Connect With Me
 
-*Add your professional links here (LinkedIn, Portfolio, Email, etc.)*
-
----
-
-## 📝 Repository Structure
-```
-powerbi-projects/
-│
-├── financial-sales-report/
-│   ├── screenshots/
-│   ├── data/
-│   ├── pbix-files/
-│   └── README.md
-│
-├── sales-integration/
-│   ├── screenshots/
-│   ├── data/
-│   ├── pbix-files/
-│   └── README.md
-│
-├── data-cleaning-lab/
-│   ├── screenshots/
-│   ├── data/
-│   ├── pbix-files/
-│   └── README.md
-│
-└── README.md
-```
+https://www.linkedin.com/in/marvyccmo/
 
 ---
 
